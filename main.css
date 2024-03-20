@@ -59,3 +59,7 @@ body {
     height: 280px;
   }
 }
+
+.carousel-item img {
+  height: 600px;
+}
