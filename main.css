@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  background-color: #000000ce;
+  background-color: #000;
 }
 
 #cabecalho .nav .nav-link.active {
@@ -58,8 +58,4 @@ body {
   .carousel-item img {
     height: 280px;
   }
-}
-
-.carousel-item img {
-  height: 600px;
 }
